@@ -34,5 +34,6 @@
  ### 🔗Contact With Me :
 
 <a href="https://www.linkedin.com/in/islam-atwa-79b37524a/" target="_blank"><img src="https://img.shields.io/badge/-Islam Atwa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/-Gmail-0077B5?style=for-the-badge&logo=Gmail&logoColor=Red"/></a>
 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:omarahmed121998@gmail.com)](mailto:omarahmed121998@gmail.com)
+
